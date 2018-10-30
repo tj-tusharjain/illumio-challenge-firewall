@@ -31,3 +31,7 @@
     ```
     pytest -q tests.py
     ```
+
+## 4. Team
+    
+    I wish to work in the Platform team, I believe it is a good fit for my skillset and interests.
